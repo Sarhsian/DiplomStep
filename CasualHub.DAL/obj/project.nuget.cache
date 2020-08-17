@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9BZ3a8iKzjHrQpdy4jBcfUeUNQ7W6ykVjPw+mTkN+hxz8lgabea2RhSJ/QCHtnLTGdCB69lJiAocPrNNFJoWZw==",
+  "dgSpecHash": "HltblUH3ljiaXmXC0rfCO90wo2jAqc59mD/BC+2+FIlw7rW9Jv183bNuaeSnx/VTJInSsIdRoojdgjwu233nfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.DAL\\CasualHub.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.DAL\\CasualHub.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.3\\microsoft.aspnetcore.cryptography.keyderivation.3.1.3.nupkg.sha512",

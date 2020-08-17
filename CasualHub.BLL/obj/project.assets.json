@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.BLL\\CasualHub.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.BLL\\CasualHub.BLL.csproj",
       "projectName": "CasualHub.BLL",
-      "projectPath": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.BLL\\CasualHub.BLL.csproj",
+      "projectPath": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.BLL\\CasualHub.BLL.csproj",
       "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.BLL\\obj\\",
+      "outputPath": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

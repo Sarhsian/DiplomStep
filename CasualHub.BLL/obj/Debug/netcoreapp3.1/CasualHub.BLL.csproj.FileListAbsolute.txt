@@ -24,3 +24,4 @@ C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.BLL\obj\Debug\netcoreapp3.1\Casua
 C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.BLL\obj\Debug\netcoreapp3.1\CasualHub.BLL.AssemblyInfo.cs
 C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.BLL\obj\Debug\netcoreapp3.1\CasualHub.BLL.dll
 C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.BLL\obj\Debug\netcoreapp3.1\CasualHub.BLL.pdb
+C:\Users\Artur\Desktop\Diplom\DiplomStep\CasualHub\CasualHub.BLL\obj\Debug\netcoreapp3.1\CasualHub.BLL.csprojAssemblyReference.cache
