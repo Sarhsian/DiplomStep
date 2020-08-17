@@ -5078,11 +5078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.DAL\\CasualHub.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.DAL\\CasualHub.DAL.csproj",
       "projectName": "CasualHub.DAL",
-      "projectPath": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.DAL\\CasualHub.DAL.csproj",
+      "projectPath": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.DAL\\CasualHub.DAL.csproj",
       "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artur\\Desktop\\Diplom\\DiplomStep\\CasualHub\\CasualHub.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Artur\\Desktop\\sd\\DiplomStep\\CasualHub.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
