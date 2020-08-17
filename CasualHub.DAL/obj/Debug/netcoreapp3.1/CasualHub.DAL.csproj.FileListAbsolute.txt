@@ -16,3 +16,12 @@ C:\Users\Artur\Desktop\Diplom\DiplomStep\CasualHub\CasualHub.DAL\obj\Debug\netco
 C:\Users\Artur\Desktop\Diplom\DiplomStep\CasualHub\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.dll
 C:\Users\Artur\Desktop\Diplom\DiplomStep\CasualHub\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.pdb
 C:\Users\Artur\Desktop\Diplom\DiplomStep\CasualHub\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\bin\Debug\netcoreapp3.1\CasualHub.DAL.deps.json
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\bin\Debug\netcoreapp3.1\CasualHub.DAL.dll
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\bin\Debug\netcoreapp3.1\CasualHub.DAL.pdb
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.AssemblyInfo.cs
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.dll
+C:\Users\Artur\Desktop\sd\DiplomStep\CasualHub.DAL\obj\Debug\netcoreapp3.1\CasualHub.DAL.pdb
